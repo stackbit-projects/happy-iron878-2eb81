@@ -9,7 +9,7 @@ highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
 [reveal_hugo.templates.dark]
-class = "black"
+class = "dark"
 background = "#000000"
 +++
 
