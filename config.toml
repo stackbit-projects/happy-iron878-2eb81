@@ -25,5 +25,5 @@ isHTML = true
 history = true
 
 [params.reveal_hugo.templates.grey]
-background = "#424242"
+background = "#000000"
 transition = "convex"
