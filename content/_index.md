@@ -8,7 +8,7 @@ margin = 0.2
 highlight_theme = "color-brewer"
 transition = "slide"
 transition_speed = "fast"
-[reveal_hugo.templates.black]
+[reveal_hugo.templates.dark]
 class = "black"
 background = "#000000"
 +++
